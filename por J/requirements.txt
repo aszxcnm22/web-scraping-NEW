@@ -1,6 +1,0 @@
-streamlit
-joblib
-pandas
-plotly.graph_objects
-defaultdict
-datetime
